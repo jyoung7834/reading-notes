@@ -26,6 +26,8 @@ GitHub.com uses its own version of the Markdown syntax that provides an addition
 for example
 
 Path Learning | Sandbox Learning
-- Leads you along | - Fosters exploration
-------------------------|------------------------
+------------------------
+Leads you along | Fosters exploration
+----------------------
 -Students are consumers of information | - Students are co- creators
+-------------------
