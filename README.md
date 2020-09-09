@@ -12,6 +12,7 @@
 ## These are my reading notes
 
 ### Mastering Markdown in Github
-* blah
-* blah
-* blah
+* Headers
+![GitHub Logo](/images/logo.png)
+* Emphasis
+* Lists
