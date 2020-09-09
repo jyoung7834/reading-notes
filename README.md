@@ -22,12 +22,12 @@ As Dr. Wayne Dyer said:
 ## GitHub Flavored Markdown
 GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easier to work with content on GitHub.com.
 
-## Tables
+Tables
 for example
 
 Path Learning | Sandbox Learning
 ------------------------
 Leads you along | Fosters exploration
 ----------------------
--Students are consumers of information | - Students are co- creators
+Students are consumers of information | Students are co- creators
 -------------------
