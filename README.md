@@ -12,9 +12,6 @@
 ### Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
 ### Mastering Markdown in Github 
 
-GitHub Flavored Markdown
-GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easier to work with content on GitHub.com.
-
 * Headers
 ![GitHub Logo](/images/logo.png)
 * Emphasis
@@ -22,3 +19,6 @@ GitHub.com uses its own version of the Markdown syntax that provides an addition
 
 As Dr. Wayne Dyer said:
 > When you change the way you look at things, the things you look at change.
+
+GitHub Flavored Markdown
+GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easier to work with content on GitHub.com.
