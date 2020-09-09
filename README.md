@@ -18,9 +18,7 @@
 * Lists
 
 def foo():
-  if not bar:
-    return True
-    
+     
     As Dr. Wayne Dyer said:
 > When you change the way you look at things, the things you look at change.
 
