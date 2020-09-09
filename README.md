@@ -13,6 +13,6 @@
 ## These are my readin g notes
 
 ### Blah
-+ blah
-+ blah
-+ blah
+* blah
+* blah
+* blah
