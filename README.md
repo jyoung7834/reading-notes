@@ -1,6 +1,5 @@
 # Jacque Young
 ## These are my reading notes
-### This is less important
 
 ## Growth mindset is living in the world of possibilities!
 - Learning from failures
@@ -12,7 +11,7 @@
 
 ## These are my reading notes
 
-### Blah
+### Mastering Markdown in Github
 * blah
 * blah
 * blah
