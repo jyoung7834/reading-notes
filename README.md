@@ -26,8 +26,7 @@ Tables
 for example
 
 Path Learning | Sandbox Learning
-------------------------
+------------- | --------------
 Leads you along | Fosters exploration
-----------------------
 Students are consumers of information | Students are co- creators
--------------------
+
