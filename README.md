@@ -3,7 +3,7 @@
 ### This is less important
 
 ## Growth mindset is living in the world of possibilities!
-- Learning from failures
+- When you change the way you look at things, the things you look at change. 
 - Rembering that nothing is easy at first
 - I don't know how...**yet**!
 
