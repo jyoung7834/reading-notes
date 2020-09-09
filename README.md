@@ -20,5 +20,5 @@
 As Dr. Wayne Dyer said:
 > When you change the way you look at things, the things you look at change.
 
-GitHub Flavored Markdown
+## GitHub Flavored Markdown
 GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easier to work with content on GitHub.com.
