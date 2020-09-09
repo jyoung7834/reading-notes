@@ -2,7 +2,7 @@
 ## These are my reading notes
 ### This is less important
 
-## Growth mindset is living in the world of possible!
+## Growth mindset is living in the world of possibilities!
 - Learning from failures
 - Rembering that nothing is easy at first
 - I don't know how...**yet**!
