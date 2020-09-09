@@ -13,12 +13,18 @@
 ### Mastering Markdown in Github 
 
 * Headers
-![GitHub Logo](/images/logo.png)
 * Emphasis
 * Lists
      
-    As Dr. Wayne Dyer said:
+As Dr. Wayne Dyer said:
 > When you change the way you look at things, the things you look at change.
 
 ## GitHub Flavored Markdown
 GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easier to work with content on GitHub.com.
+
+## Tables
+for example
+
+Path Learning | Sandbox Learning
+- Leads you along | - Fosters exploration
+-Students are consumers of information | - Students are co- creators
