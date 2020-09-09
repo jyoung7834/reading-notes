@@ -7,4 +7,4 @@
 - Rembering that nothing is easy at first
 - I don't know how...**yet**!
 
-[Here is my page](https://jyoung7834.github.io/reading-notes/)
+[My name is Jacqueline but please call me Jacque.  Here is my page](https://jyoung7834.github.io/reading-notes/)
