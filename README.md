@@ -1,4 +1,4 @@
-# Jacque Young :metal
+# Jacque Young :metal:
 ## These are my reading notes
 
 ## Growth mindset is living in the world of possibilities!
