@@ -19,3 +19,6 @@ GitHub.com uses its own version of the Markdown syntax that provides an addition
 ![GitHub Logo](/images/logo.png)
 * Emphasis
 * Lists
+
+As Dr. Wayne Dyer said:
+> When you change the way you look at things, the things you look at change.
