@@ -8,6 +8,9 @@
 
 ## My name is Jacqueline but please call me *Jacque*.  [Here is my page](https://jyoung7834.github.io/reading-notes/)
 
+This is my favorite quote by Dr. Wayne Dyer:
+> When you change the way you look at things, the things you look at change.
+
 ## These are my reading notes
 ### Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
 ### Mastering Markdown in Github 
@@ -16,8 +19,7 @@
 * Emphasis
 * Lists
      
-As Dr. Wayne Dyer said:
-> When you change the way you look at things, the things you look at change.
+
 
 ## GitHub Flavored Markdown
 GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easier to work with content on GitHub.com.
