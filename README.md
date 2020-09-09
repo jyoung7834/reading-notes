@@ -10,7 +10,7 @@
 
 ## My name is Jacqueline but please call me Jacque.  [Here is my page](https://jyoung7834.github.io/reading-notes/)
 
-## These are my readin g notes
+## These are my reading notes
 
 ### Blah
 * blah
