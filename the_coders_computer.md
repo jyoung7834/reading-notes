@@ -38,24 +38,7 @@ The terminal may seem daunting but don't fret. Linux is full of shortcuts to hel
 ### Shortcut
 Her's your first shortcut.  When you enter commands, they are actually stored in a history.  You can traverse this histor using the up and down arrow keys.  So don't bother re-typing out commands you have previously entered, you can usually just hit the up arrow a few times.  You can also edit these commands using the left and right arrow keys to move the cursor where you want. 
 
- ## Remember these (GIT Notes)
-- mkdr = make directory
-- ls = list
-- mkdr 102 201 301 401 enter
-- cd 102
-- pwd
-- git clone add hyperlink from github.com
-- cd apples
-- ls -a
-- code .
-- git status
-- git add then add file in red
-- git add "README.md"
-- git commit -m "reason or name"
-- git push origin master
-- make sure you spell correctly
-- Make sure you have your github user and pw
-- cd ..
+ 
 
 
 
