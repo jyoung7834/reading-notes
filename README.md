@@ -11,4 +11,6 @@
 ## Table of Contents
 - [class 1 reading notes](class1.md)
 
+- [class 2 reading notes](the-coders-computer.md)
 
+- [class 3 reading notes](revisions_and_the_cloud.md)
