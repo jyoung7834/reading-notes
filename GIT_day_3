@@ -30,3 +30,22 @@ Package Manager
 
 You can try installing Git via your distribution’s inherent package management tool. 
 $ sudo apt-get install git
+
+ ## Remember these (GIT Notes)
+- mkdr = make directory
+- ls = list
+- mkdr 102 201 301 401 enter
+- cd 102
+- pwd
+- git clone add hyperlink from github.com
+- cd apples
+- ls -a
+- code .
+- git status
+- git add then add file in red
+- git add "README.md"
+- git commit -m "reason or name"
+- git push origin master
+- make sure you spell correctly
+- Make sure you have your github user and pw
+- cd ..
