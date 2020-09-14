@@ -18,3 +18,4 @@
 - [class 4 reading notes](Structure_web_pages_with_HTML.md)
 
 - [class 5 and 6 reading notes](day_5.md)
+- [How do computers work videos](watch_videos.md)
