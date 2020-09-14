@@ -17,4 +17,4 @@
 
 - [class 4 reading notes](Structure_web_pages_with_HTML.md)
 
-- [class 5 reading notes]
+- [class 5 reading notes](day_5.md)
