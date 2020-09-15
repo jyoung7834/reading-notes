@@ -19,3 +19,5 @@
 
 - [class 5 and 6 reading notes](day_5.md)
 - [How do computers work videos](watch_videos.md)
+
+- [class 7 reading notes](day_7_Intro_Scripts.md)
