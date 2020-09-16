@@ -21,3 +21,5 @@
 - [How do computers work videos](watch_videos.md)
 
 - [class 7 reading notes](day_7_Intro_Scripts.md)
+
+- [class 8 reading notes](day_8_Operators_and_Loops.md)
