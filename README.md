@@ -23,3 +23,14 @@
 - [class 7 reading notes](day_7_Intro_Scripts.md)
 
 - [class 8 reading notes](day_8_Operators_and_Loops.md)
+
+#Introductory HTML and Java Script
+
+- Prep
+    * HTML Intro
+    * HTML Chapter 1
+    * HTML Chapter 8
+    * HTML Chapter 17
+    * HTML Chapter 18
+    * JS Intro
+    * JS Chapter 1
