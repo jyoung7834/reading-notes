@@ -24,13 +24,13 @@
 
 - [class 8 reading notes](day_8_Operators_and_Loops.md)
 
-#Introductory HTML and Java Script
+# Introductory HTML and Java Script
 
 - Prep
-    * HTML Intro
-    * HTML Chapter 1
-    * HTML Chapter 8
-    * HTML Chapter 17
-    * HTML Chapter 18
-    * JS Intro
-    * JS Chapter 1
+    - [HTML Intro](201_html_intro.md)
+    - [HTML Chapter 1](201_html_intro.md)
+    - [HTML Chapter 8](201_html_intro.md)
+    - [HTML Chapter 17](201_html_intro.md)
+    - [HTML Chapter 18](201_html_intro.md)
+    - [JS Intro](201_javascript.md)
+    - [JS Chapter 1](201_javascript.md)
