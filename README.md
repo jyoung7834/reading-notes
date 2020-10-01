@@ -28,9 +28,17 @@
 
 - Prep
     - [HTML Intro](201_html_intro.md)
+
     - [HTML Chapter 1](201_html_intro.md)
+
     - [HTML Chapter 8](201_html_intro.md)
+
     - [HTML Chapter 17](201_html_intro.md)
+
     - [HTML Chapter 18](201_html_intro.md)
+
     - [JS Intro](201_javascript.md)
+    
     - [JS Chapter 1](201_javascript.md)
+
+- [Class02 Reading](class02.md)
