@@ -42,3 +42,5 @@
     - [JS Chapter 1](201_javascript.md)
 
 - [Class02 Reading](class02.md)
+
+- [Class03 Reading](class03.md)
