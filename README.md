@@ -24,7 +24,7 @@
 
 - [class 8 reading notes](day_8_Operators_and_Loops.md)
 
-# Introductory HTML and Java Script
+# Introductory HTML and Javascript
 
 - Prep
     - [HTML Intro](201_html_intro.md)
@@ -46,3 +46,5 @@
 - [Class03 Reading](class03.md)
 
 - [Class04 Reading](Read_04.md)
+
+- [Class05 Reading](Read_05.md)
