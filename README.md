@@ -48,3 +48,5 @@
 - [Class04 Reading](Read_04.md)
 
 - [Class05 Reading](Read_05.md)
+
+- [Class06 Reading](Read06_Reading.md)]
