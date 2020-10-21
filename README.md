@@ -50,3 +50,7 @@
 - [Class05 Reading](Read_05.md)
 
 - [Class06 Reading](Read06_Reading.md)]
+
+- [Class07 Reading](Read07.md)
+
+- [Class08 Reading](Read08.md)

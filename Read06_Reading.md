@@ -25,21 +25,21 @@
 
 -Objects consist of a set of name/value pairs (but the names are referred to as keys).
 
-> Creating an object:
-> Literal Notation
+Creating an object:
+>Literal Notation
 
 > The object is the curly braces and their contents. 
 > The object is stored in a variable.
 
 ####  PROPERTIES
-> `var object {`
+> `var object Name {`
 >     `KEY: 'VALUE',`
 >     `KEY: 'VALUE',`
 >     `KEY: 'VALUE',`
 > `}`
-####  METHOD 
+####  METHOD (is a function that lives inside of the object, it can be a function inside of the oject)
 > `KEY: function() {`
->   `return this. Key -+<> this.Key;`
+>   `return **this**. Key -+<> this.Key;`
 > `}`
 > `};`
 
