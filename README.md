@@ -56,3 +56,5 @@
 - [Class08 Reading](Read08.md)
 
 - [Class09 Reading](Read09.md)
+
+- [Class10 Reading](Read10.md)
