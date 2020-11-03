@@ -1,5 +1,5 @@
 # AJAX & JSON
-Ajax is a technique for loading data into part of a page without having to refresh the entire page.  The data is often sent in a format called JavaScript
+Ajax is a technique for loading data into part of a page without having to refresh the entire page.  The data is often sent in a format called JavaScript.
 
 * Ajax refers to a group of technologies that allow you to update just one part of the page (rather than reload a whole page).
 
