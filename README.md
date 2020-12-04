@@ -1,9 +1,10 @@
-# Jacque Young :metal:
+# READING NOTES
+# Jacque Young 
 ## These are my reading notes
 
 ## Growth mindset is living in the world of possibilities!
 - Learning from failures
-- Rembering that nothing is easy at first
+- Remembering that nothing is easy at first
 - I don't know how...**yet**!
 
 ## My name is Jacqueline but please call me *Jacque*.  [Here is my page](https://jyoung7834.github.io/reading-notes/)
@@ -24,7 +25,7 @@
 
 - [class 8 reading notes](day_8_Operators_and_Loops.md)
 
-# Introductory HTML and Javascript
+## Code 102 - Introductory to Software Development
 
 - Prep
     - [HTML Intro](201_html_intro.md)
@@ -41,6 +42,8 @@
     
     - [JS Chapter 1](201_javascript.md)
 
+ ## Code 201 - Foundations of Software Development
+ 
 - [Class02 Reading](class02.md)
 
 - [Class03 Reading](class03.md)
@@ -66,3 +69,7 @@
 - [Class13 Reading](Read_13.md)
 
 - [Class14 Reading](Reading_14a.md)
+
+## 301 - Intermediate Software Development
+
+## 401 - Advanced Software Development
