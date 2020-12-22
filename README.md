@@ -76,5 +76,6 @@
 - [301_Read_3](301_read3.md)
 - [301_Read_4](301_read4.md)
 - [301_Read_5](301_read5.md)
+[301_Read_6](301_read6.md)
 
 ## 401 - Advanced Software Development
