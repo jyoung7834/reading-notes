@@ -80,8 +80,9 @@
 - [301_Read_7](301_read7.md)
 - [301_Read_8](301_read8.md)
 - [301_Read_9](301_read9.md)
-- [301_Read_9](301_read10.md)
-- [301_Read_10](301_read11.md)
-- [301_Read_11](301_read12.md)
+- [301_Read_10](301_read10.md)
+- [301_Read_11](301_read11.md)
+- [301_Read_12](301_read12.md)
+- [301_Read_13](301_read13.md)
 
 ## 401 - Advanced Software Development
