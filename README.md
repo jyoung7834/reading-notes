@@ -88,4 +88,9 @@
 - [301_read-14b](301_read14b.md)
 - [301_read_15](301_read15.md)
 
+
+#301 - Intermediate Software Development
+
+- [301_Read_Class01](301_read01.md)
+
 ## 401 - Advanced Software Development
