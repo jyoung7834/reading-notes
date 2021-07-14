@@ -92,5 +92,6 @@
 #301 - Intermediate Software Development
 
 - [301_Read_Class01](301_read01.md)
+- [301_Read_Class02](301_read02.md)
 
 ## 401 - Advanced Software Development
